@@ -6,7 +6,7 @@ from transformers import AutoTokenizer
 
 
 BATCH_SIZE = 8
-MODEL_CHECKPOINT = "bert-base-uncased"
+MODEL_CHECKPOINT = "bert-base-cased"
 
 
 # this function:
